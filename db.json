@@ -1,0 +1,116 @@
+[
+  {
+    "idKategori": 1,
+    "Kategori": "Newzoom-Instalasi & Login",
+    "Pertanyaan": "Cara download Aplikasi ?",
+    "Jawaban": "Bisa cek di Playstore dengan keyword “MACF New Zoom”"
+  },
+   {
+    "idKategori": 1,
+    "Kategori": "Newzoom-Instalasi & Login",
+    "Pertanyaan": "Cara Login ?",
+    "Jawaban": "Username : NIK , Password : mcfmobile"
+  },
+   {
+    "idKategori": 1,
+    "Kategori": "Newzoom-Instalasi & Login",
+    "Pertanyaan": "Jika tidak bisa install aplikasi?",
+    "Jawaban": "Cek spesifikasi handphone (hp android minimum versi 7.0 keatas) dan update aplikasi versi terbaru 1.4.2"
+  },
+   {
+    "idKategori": 1,
+    "Kategori": "Newzoom-Instalasi & Login",
+    "Pertanyaan": "Jika tidak bisa Login Aplikasi ?",
+    "Jawaban": "Harap hubungi div IT / atau konfirm di group whatsapp New Zoom sesuai Area"
+  },
+   {
+    "idKategori": 1,
+    "Kategori": "Newzoom-Instalasi & Login",
+    "Pertanyaan": "Jika kondisi tidak ada sinyal apakah aplikasi bisa digunakan?",
+    "Jawaban": "Koordinasi dengan PIC IT dan Tim Operasional Head Office"
+  },
+  {
+    "idKategori": 2,
+    "Kategori": "NewZoom-Survey",
+    "Pertanyaan": "Data sudah diinput tapi tidak checklist",
+    "Jawaban": "Periksa kembali dan lengkapi inputan yang belum diisi."
+  },
+  {
+    "idKategori": 2,
+    "Kategori": "NewZoom-Survey",
+    "Pertanyaan": "Jika lampiran foto yang wajib di Upload tidak tersedia (Slip Gaji, Foto Pasangan, dll) apakah bisa di pending untuk pengerjaan New Zoom ?",
+    "Jawaban": "Data di aplikasi (lampiran foto) wajib diupload, pastikan mengetahui subtitusi dari syarat kredit sesuai yang diatur dalam memo kredit"
+  },
+  {
+    "idKategori": 2,
+    "Kategori": "NewZoom-Survey",
+    "Pertanyaan": "Jika dalam proses pengerjaan terjadi jeda karena kekurangan berkas atau pasangan tidak bagaimana status inputan New Zoom ?",
+    "Jawaban": "Jika sudah muncul “Centang Hijau” di menu foto maka foto sudah terupload disistem dan tidak perlu lakukan foto ulang"
+  },
+  {
+    "idKategori": 2,
+    "Kategori": "NewZoom-Survey",
+    "Pertanyaan": "Jika dalam pengerjaan ulang foto yang diupload tidak tersedia Langkah apa yang dilakukan ?",
+    "Jawaban": "Periksa kembali dan lengkapi inputan yang belum diisi."
+  },
+  {
+    "idKategori": 2,
+    "Kategori": "NewZoom-Survey",
+    "Pertanyaan": "Form yang perlu di tanda tangan konsumen ?",
+    "Jawaban": "FPK dan Perjanjian Kredit lainnya tetap dilakukan Tanda Tangan oleh Calon Debitur (Pemohon & Pasangan). Jika terdapat kesalahan inputan saat survey, apakah bisa edit?"
+  },
+ {
+    "idKategori": 3,
+    "Kategori": "NewZoom - FCL",
+    "Pertanyaan": "Jika data tidak terverifikasi dukcapil apakah bisa lanjut Proses ?",
+    "Jawaban": "Bisa, dengan catatan hasil FCL pemohon/pasangan sudah muncul"
+  },
+  {
+    "idKategori": 3,
+    "Kategori": "NewZoom - FCL",
+    "Pertanyaan": "Jika terdapat hasil FCL kol 4-5, apakah bisa lanjut New Zoom ?",
+    "Jawaban": "Tidak bisa, wajib melakukan banding (MI BWMK) jika Approve input dari OMS"
+  },
+  {
+    "idKategori": 3,
+    "Kategori": "NewZoom - FCL",
+    "Pertanyaan": "Jika status pemohon Single Parent / Duda / Janda bisa input pemohon tunggal ?",
+    "Jawaban": "Wajib ada Penjamin (yang memiliki hubungan darah dengan pemohon"
+  },
+  {
+    "idKategori": 3,
+    "Kategori": "NewZoom - FCL",
+    "Pertanyaan": "Jika status pengecekan “Dalam Proses” apakah bisa lanjut?",
+    "Jawaban": "Proses tidak bisa hingga sudah muncul hasil FCL"
+  },
+  {
+    "idKategori": 3,
+    "Kategori": "NewZoom - FCL",
+    "Pertanyaan": "Jika status pengecekan “Dalam Proses” apakah bisa lanjut?",
+    "Jawaban": "Proses tidak bisa hingga sudah muncul hasil FCL"
+  },
+  {
+    "idKategori": 4,
+    "Kategori": "New Passnet",
+    "Pertanyaan": "Jika Foto yang terdapat di New Passnet tidak muncul ?",
+    "Jawaban": "Pastikan terkait dengan computer yang digunakan, bisa open with paint untuk memunculkan foto yang tidak terlampir"
+  },
+   {
+    "idKategori": 4,
+    "Kategori": "New Passnet",
+    "Pertanyaan": "Jika Print LAHS tidak muncul?",
+    "Jawaban": "Koordinasi dengan Tim IT atau grup New Zoom Area masing-masing"
+  },
+   {
+    "idKategori": 4,
+    "Kategori": "New Passnet",
+    "Pertanyaan": "Untuk tanda tangan pejabat di LAHS ?",
+    "Jawaban": "Manual selama proses development dilakukan oleh IT untuk Live. Admin akan meminta TTD manual ke pihak terkait."
+  },
+   {
+    "idKategori": 4,
+    "Kategori": "New Passnet",
+    "Pertanyaan": "Jika Order ID yang sudah di input tidak muncul di passnet ?",
+    "Jawaban": "Koordinasikan dengan Tim IT dan Grup New Zoom masing-masing Area untuk di cek trackingnya oleh IT HO"
+  },
+]
